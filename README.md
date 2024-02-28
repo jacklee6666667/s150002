@@ -1,3 +1,6 @@
+
+[![Deploy to Fastly](https://deploy.edgecompute.app/button)](https://deploy.edgecompute.app/deploy)
+
 # Telegraph-Image
 免费图片托管解决方案，Flickr/imgur替代品。使用Cloudflare Pages和Telegraph。
 
